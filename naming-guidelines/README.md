@@ -2,7 +2,7 @@
 
 이 문서는 [.NET Framework design guideline ](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)문서를 참고하여 만들어 졌습니다.
 
-개발에서 일관된 Naming Guideline을 따르는 것은 개발 과정에 많은 유용성을 가져 옵니다. 많은 개발자가 광범위하게 분리 된 프로젝트에서 Naming Gudieline에 의해 사용되는 요소들의 이름, 기능을 쉽게 이해할 수 있습니다. 
+개발 과정에서 일관된 Naming Guideline을 따르는 것은 많은 유용성이 있습니다. 많은 개발자가 광범위하게 분리 된 프로젝트에서 Naming Gudieline에 의해 사용되는 요소들의 이름, 기능을 쉽게 이해할 수 있습니다. 
 
 이 장의 목적은 개발자에게 즉각적인 의미를 부여하는 일관된 Naming Guideline을 제공하는 것입니다.
 
