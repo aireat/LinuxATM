@@ -8,3 +8,7 @@
 
 Naming Guideline는 일반적인 코드 개발 지침으로 채택하면 코드 전체에서보다 일관된 이름을 지정할 수 있지만, **이 문서는 공개적으로 노출 된 API \(public, protected types and member, and explicitly implemented interface\)에만 적용 합니다.**
 
+{% page-ref page="capitalization.md" %}
+
+
+
