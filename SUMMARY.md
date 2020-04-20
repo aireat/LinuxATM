@@ -13,4 +13,5 @@
 
 * [Naming Guidelines](.net-core/naming-guidelines/README.md)
   * [대문자 표기법](.net-core/naming-guidelines/capitalization.md)
+  * [일반 이름 표기](.net-core/naming-guidelines/general-naming.md)
 
